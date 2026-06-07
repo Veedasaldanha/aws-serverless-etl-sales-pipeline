@@ -45,3 +45,7 @@ SQL Analytics
 - Convert JSON to Parquet
 - Automatic schema discovery
 - Query data using Athena
+
+## Architecture Diagram
+
+<img width="1412" height="549" alt="Architecture_AWS_serverless" src="https://github.com/user-attachments/assets/ecc900ca-30d4-4f22-a33c-127df55c7b05" />
