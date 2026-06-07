@@ -9,7 +9,7 @@ s3 = boto3.client('s3')
 
 # Configuration
 BUCKET_NAME = "amazon.sales.data"
-API_URL = "https://b2oslamoiw3vlj2qnbstihqviy0lirxb.lambda-url.ap-south-1.on.aws/"
+API_URL = "PASTE_API_URL" # paste the given API URL
 
 
 def lambda_handler(event, context):
